@@ -1,4 +1,4 @@
-#Advanced Timer using Node-Red
+# Advanced Timer using Node-Red
 
 This is an advanced timer using rhasspy and node-red.
 
@@ -6,7 +6,7 @@ This is an advanced timer using rhasspy and node-red.
 
 This flow relies on the custom node "mytimout by cherry (besides the Home Assistant nodes)
 
-##Description
+## Description
 
 This timer is based on the excellent example by rhasspy developer Michael Hansen but has a few more features.
 - Stop a timer at any time using the StopTimer event (this will cancel a paused timer).
@@ -18,7 +18,7 @@ If a timer ends there are several options to indicate this.
 You have to connect the "Timer End Status" nodes first output to one of the following nodes: "load audio, Set wavefile url or Done.
 
 
- This is still a work in progess 
+This is still a work in progess!
 
 ## Files
 
