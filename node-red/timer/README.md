@@ -2,7 +2,7 @@
 
 This is an advanced timer using rhasspy and node-red.
 
-#Requirements
+## Requirements
 
 This flow relies on the custom node "mytimout by cherry (besides the Home Assistant nodes)
 
